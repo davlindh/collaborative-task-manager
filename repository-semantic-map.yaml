@@ -1,0 +1,12 @@
+version: 1
+repository: davlindh/collaborative-task-manager
+purpose: Collaborative task and work coordination experiment.
+status: experimental-reference
+canonical_parent: davlindh/faving-journey-shaper
+capabilities: [tasks, collaboration, coordination]
+vertical: collaboration
+omniframez_role: execution-capability-experiment
+evidence: {confidence: inferred, sources: [repository-name]}
+harvest_action: inspect-and-harvest-unique-capabilities
+relations:
+  - contributes_to: project and task coordination
